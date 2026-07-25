@@ -11,10 +11,14 @@
             "id": "f6252fa9a1bbfada",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "90-Templates/Template-Estemporanea.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Template-Estemporanea"
             }
           }
         ]
@@ -187,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ciao.md"
+                "file": "90-Templates/Template-Estemporanea.md"
               },
               "icon": "lucide-info",
-              "title": "Proprietà file per ciao"
+              "title": "Proprietà file per Template-Estemporanea"
             }
           }
         ],
@@ -198,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,18 +226,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0f6290623cbf3c5",
+  "active": "f6252fa9a1bbfada",
   "lastOpenFiles": [
+    "90-Templates/Template-Lezione-Conferenza.md",
+    "90-Templates/Template-Fonte.md",
+    "90-Templates/Template-Lezione.md",
+    "90-Templates/Template-Persona.md",
+    "01-Fonti/clarkExtendedMind1998.md",
+    "Biosemiotics",
+    "Senza nome/desktop.ini",
+    "AI Critics (classic)",
+    "Artificial Life",
+    "01-Fonti/AI",
+    "01-Fonti/4E Cognition",
+    "ciao.md",
     "TaskNotes/Tasks",
     "TaskNotes/Tasks/Vinted.md",
     "TaskNotes/Tasks/Banconi.md",
     "TaskNotes/Tasks/Aperitif.md",
-    "ciao.md",
     "TaskNotes/Views/agenda-default.base",
     "02-Concetti/Percezione.md",
     "TaskNotes/Tasks/Pulire salotto.md",
     "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
-    "01-Fonti/clarkExtendedMind1998.md",
     "Markdown.md",
     "TaskNotes/Tasks/Pulire ingresso.md",
     "TaskNotes/Tasks/Fare domande item preferiti.md",
@@ -247,18 +262,8 @@
     "TaskNotes/Tasks/doccia.md",
     "TaskNotes/Tasks/Pulire camera.md",
     "TaskNotes/Tasks/pulire comodino e scrivania.md",
-    "TaskNotes/Tasks/sistemare libri vinted.md",
-    "TaskNotes/Tasks/pulire libreria.md",
-    "TaskNotes/Tasks/buttare monnezza.md",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/pomodoro-stats.base",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Tasks",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views",
-    "TaskNotes",
     "Lavagna.canvas",
     "red_windows_red_folder_folder_icon_250635.webp",
     "icons8-bmo-48.png",
