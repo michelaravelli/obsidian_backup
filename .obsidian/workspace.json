@@ -20,22 +20,8 @@
               "icon": "lucide-file",
               "title": "ciao"
             }
-          },
-          {
-            "id": "426f46208e95d368",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "TaskNotes/Views/agenda-default.base",
-                "viewName": "Agenda"
-              },
-              "icon": "tasknotes-simple",
-              "title": "agenda-default"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TaskNotes/Views/agenda-default.base"
+                "file": "ciao.md"
               },
               "icon": "lucide-info",
-              "title": "Proprietà file per agenda-default"
+              "title": "Proprietà file per ciao"
             }
           }
         ],
@@ -239,11 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "426f46208e95d368",
+  "active": "d0f6290623cbf3c5",
   "lastOpenFiles": [
+    "TaskNotes/Views/agenda-default.base",
     "02-Concetti/Percezione.md",
     "TaskNotes/Tasks/Pulire salotto.md",
-    "TaskNotes/Views/agenda-default.base",
     "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
     "01-Fonti/clarkExtendedMind1998.md",
     "Markdown.md",
@@ -267,7 +253,6 @@
     "TaskNotes/Tasks/pulire e archiviare cose andrea.md",
     "TaskNotes/Tasks/Pulire Cucina.md",
     "TaskNotes/Tasks/pavimento!!.md",
-    "TaskNotes/Tasks/Lavello.md",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/pomodoro-stats.base",
