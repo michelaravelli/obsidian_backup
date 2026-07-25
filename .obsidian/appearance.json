@@ -1,0 +1,10 @@
+{
+  "accentColor": "#bd0039",
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Segoe UI,Book Antiqua,Times New Roman",
+  "textFontFamily": "Bell MT,Cascadia Code",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "baseFontSize": 18
+}

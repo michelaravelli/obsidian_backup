@@ -1,0 +1,26 @@
+{
+  "highlighterStyle": "none",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Giallo": "#fabd2f",
+    "Grigio": "#928374",
+    "Red": "#eb2626",
+    "Orange": "#ff7300",
+    "Green": "#6bb00b",
+    "Azzurro": "#05bee6",
+    "Blu": "#0033ff",
+    "Viola": "#9c36b5",
+    "Pink": "#e64980"
+  },
+  "highlighterOrder": [
+    "Giallo",
+    "Red",
+    "Orange",
+    "Green",
+    "Azzurro",
+    "Blu",
+    "Pink",
+    "Viola",
+    "Grigio"
+  ]
+}

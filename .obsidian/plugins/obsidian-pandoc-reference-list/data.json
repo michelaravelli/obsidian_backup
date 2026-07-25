@@ -1,0 +1,18 @@
+{
+  "pathToPandoc": "",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "Biblioteca personale",
+      "lastUpdate": 1784987539597
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pullFromZotero": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard2.csl",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true
+}

@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "f21462be2e0b4440",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c6275ebd3e6109d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cea7f63d3e4ed15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ciao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ciao"
+            }
+          },
+          {
+            "id": "426f46208e95d368",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/agenda-default.base",
+                "viewName": "Agenda"
+              },
+              "icon": "tasknotes-simple",
+              "title": "agenda-default"
+            }
+          },
+          {
+            "id": "cbaa0636b3b893a0",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/agenda-default.base",
+                "viewName": "Agenda"
+              },
+              "icon": "tasknotes-simple",
+              "title": "agenda-default"
+            }
+          },
+          {
+            "id": "d385c5fe669a77ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TaskNotes/Tasks/Pulire salotto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pulire salotto"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2b6d51aaa40a869",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cfb85f030139dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0f6290623cbf3c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "ee0b12e7357b1c10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:task",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "7c86898ee4892cf5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          },
+          {
+            "id": "309b38e46d784711",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e324aa14becacaa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cefc7a0452887f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ef276c06120a963",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Benvenuto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Benvenuto"
+            }
+          },
+          {
+            "id": "f90dba9781fbfb73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Benvenuto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Benvenuto"
+            }
+          },
+          {
+            "id": "d223bb9eb8604172",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "dfb14c271dc9ad2c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "315e389567f73c27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Benvenuto.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Benvenuto"
+            }
+          },
+          {
+            "id": "6dce7f201f75bad9",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "templater-obsidian:Templater": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false
+    }
+  },
+  "active": "d385c5fe669a77ae",
+  "lastOpenFiles": [
+    "TaskNotes/Views/agenda-default.base",
+    "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
+    "01-Fonti/clarkExtendedMind1998.md",
+    "Markdown.md",
+    "TaskNotes/Tasks/Pulire salotto.md",
+    "TaskNotes/Tasks/Pulire ingresso.md",
+    "TaskNotes/Tasks/Vinted.md",
+    "TaskNotes/Tasks/Fare domande item preferiti.md",
+    "TaskNotes/Tasks/Controllo Cosa altro comprare.md",
+    "TaskNotes/Tasks/Consegnare paccheto 1 & 2.md",
+    "TaskNotes/Tasks/Fare pacchetto numero 2.md",
+    "TaskNotes/Tasks/Lavare lenzuolo divano.md",
+    "TaskNotes/Tasks/Pulizia superfici.md",
+    "TaskNotes/Tasks/Levare cose stendino.md",
+    "TaskNotes/Tasks/Pulire bagno.md",
+    "TaskNotes/Tasks/sanitari.md",
+    "TaskNotes/Tasks/doccia.md",
+    "TaskNotes/Tasks/Pulire camera.md",
+    "TaskNotes/Tasks/pulire comodino e scrivania.md",
+    "TaskNotes/Tasks/sistemare libri vinted.md",
+    "TaskNotes/Tasks/pulire libreria.md",
+    "TaskNotes/Tasks/buttare monnezza.md",
+    "TaskNotes/Tasks/pulire e archiviare cose andrea.md",
+    "TaskNotes/Tasks/Pulire Cucina.md",
+    "TaskNotes/Tasks/pavimento!!.md",
+    "TaskNotes/Tasks/Lavello.md",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/pomodoro-stats.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Tasks",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views",
+    "TaskNotes",
+    "Lavagna.canvas",
+    "red_windows_red_folder_folder_icon_250635.webp",
+    "icons8-bmo-48.png",
+    "Pasted image 20260717171123.png"
+  ]
+}
