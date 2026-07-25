@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90-Templates/Template-Estemporanea.md",
+                "file": "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template-Estemporanea"
+              "title": "Annotazione Allegati (Template Zotero)"
             }
           }
         ]
@@ -191,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "90-Templates/Template-Estemporanea.md"
+                "file": "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md"
               },
               "icon": "lucide-info",
-              "title": "Proprietà file per Template-Estemporanea"
+              "title": "Proprietà file per Annotazione Allegati (Template Zotero)"
             }
           }
         ],
@@ -228,6 +228,9 @@
   },
   "active": "f6252fa9a1bbfada",
   "lastOpenFiles": [
+    "90-Templates/Template-Concetto.md",
+    "Comandi per citazioni.md",
+    "90-Templates/Template-Estemporanea.md",
     "90-Templates/Template-Lezione-Conferenza.md",
     "90-Templates/Template-Fonte.md",
     "90-Templates/Template-Lezione.md",
@@ -239,7 +242,6 @@
     "Artificial Life",
     "01-Fonti/AI",
     "01-Fonti/4E Cognition",
-    "ciao.md",
     "TaskNotes/Tasks",
     "TaskNotes/Tasks/Vinted.md",
     "TaskNotes/Tasks/Banconi.md",
@@ -260,8 +262,6 @@
     "TaskNotes/Tasks/Pulire bagno.md",
     "TaskNotes/Tasks/sanitari.md",
     "TaskNotes/Tasks/doccia.md",
-    "TaskNotes/Tasks/Pulire camera.md",
-    "TaskNotes/Tasks/pulire comodino e scrivania.md",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "Lavagna.canvas",
