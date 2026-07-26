@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
+                "file": "06-MOC/thellefsen2025genaisem.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Annotazione Allegati (Template Zotero)"
+              "title": "thellefsen2025genaisem"
             }
           }
         ],
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:task",
+                "query": "DA",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,8 +251,10 @@
   },
   "active": "07ee795cc84862d6",
   "lastOpenFiles": [
-    "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
+    "06-MOC/DA-COMPLETARE - Cybersemiotics Merging the Semiotic and Cybernetics.md",
+    "06-MOC/thellefsen2025genaisem.md",
     "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
+    "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
     "01-Fonti/sequeira2006SemioticApproachControl.md",
     "01-Fonti/barandiaran2017AutonomyEnactivismTheory.md",
     "01-Fonti/mendoza-collazos2022CognitiveSemioticApproachAgency.md",
@@ -280,9 +282,7 @@
     "06-MOC/MOC-Cybersemiotics.md",
     "06-MOC/MOC-Cognitive-Semiotics.md",
     "06-MOC/MOC-Cognitive-Robotics.md",
-    "06-MOC/MOC-Biosemiotics.md",
     "Senza nome",
-    "02-Concetti.md",
     "Senza nome.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "Biosemiotics",
