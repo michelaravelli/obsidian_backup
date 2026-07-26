@@ -1,17 +1,19 @@
 ---
 type: fonte
 autori: "[[{{authors}}]]"
-anno: "{{date | render("YYYY")}}"
+anno: "{{date}}"
 zotero-key: "{{key}}"
 citekey: "{{citekey}}"
-concetti: 
-{%- for tag in tags %} 
-	- "[[02-Concetti/{{tag.tag}}]]"
-{%- endfor %}
 discipline:
+type-doc: "{{itemType}}"
+pages: "{{numPages}}"
 stato: da-leggere
-created: "{{date | render("YYYY-MM-DD")}}"
+created: "{{date}}"
 ---
+### 🏷️ Concetti  
+{% for tag in tags -%} 
+* [[02-Concetti/{{tag.tag}}]] 
+{% endfor %}
 # {{title}}
 
 > [!meta]- Metadata
