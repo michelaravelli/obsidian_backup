@@ -7,8 +7,6 @@ created: 2026-07-17
 ---
 
 # Andy Clark
-==ciao==
-COme si a pensare di ==meglio==
 
 
 ## Note

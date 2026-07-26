@@ -1,8 +1,9 @@
 ---
 type: concetto
-definizione: 
+definizione:
 correlati: []
-discipline: []
+discipline:
+  - cognitive-semiotics
 created: 2026-07-19
 ---
 

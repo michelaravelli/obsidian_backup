@@ -664,5 +664,10 @@
       "attempts": 0,
       "lastError": "Google Calendar sync is not ready"
     }
-  ]
+  ],
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1860
+  },
+  "lastPomodoroDate": "2026-07-25"
 }

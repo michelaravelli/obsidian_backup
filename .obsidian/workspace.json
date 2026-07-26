@@ -13,15 +13,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
-                "mode": "source",
-                "source": false
+                "file": "02-Concetti/Percezione.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-"
+              "title": "Percezione"
+            }
+          },
+          {
+            "id": "c3d52889d1e34ee5",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-stats-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-stats-view"
+            }
+          },
+          {
+            "id": "1a26304c7adda142",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-view"
+            }
+          },
+          {
+            "id": "036e931cd6f767a6",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
+          },
+          {
+            "id": "f4c10d6fd7ae6433",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/agenda-default.base",
+                "viewName": "Agenda"
+              },
+              "icon": "tasknotes-simple",
+              "title": "agenda-default"
+            }
+          },
+          {
+            "id": "d9df0454f50b240b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/tasks-default.base",
+                "viewName": "Manual Order"
+              },
+              "icon": "tasknotes-simple",
+              "title": "tasks-default"
+            }
+          },
+          {
+            "id": "8ac90e2c642414bc",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/calendar-default.base",
+                "viewName": "Calendar"
+              },
+              "icon": "tasknotes-simple",
+              "title": "calendar-default"
+            }
+          },
+          {
+            "id": "40e3a9531600a0c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -190,11 +273,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Proprietà file per Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-"
+              "title": "Proprietà file"
             }
           }
         ],
@@ -226,10 +307,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6252fa9a1bbfada",
+  "active": "40e3a9531600a0c8",
   "lastOpenFiles": [
-    "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
+    "Senza nome.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "02-Concetti/Percezione.md",
+    "06-MOC/MOC-Cognitive-Semiotics.md",
+    "06-MOC/MOC-Cognitive-Robotics.md",
+    "06-MOC/MOC-4E Cognition.md",
     "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
+    "03-Persone/Alvaro Moreno & Arantza Etxeberria.md",
+    "03-Persone/Andy Clark.md",
+    "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
+    "Ricardo R. Gudwin.md",
     "90-Templates/Template-Concetto.md",
     "Comandi per citazioni.md",
     "90-Templates/Template-Estemporanea.md",
@@ -243,27 +337,14 @@
     "AI Critics (classic)",
     "Artificial Life",
     "01-Fonti/AI",
-    "01-Fonti/4E Cognition",
-    "TaskNotes/Tasks",
     "TaskNotes/Tasks/Vinted.md",
     "TaskNotes/Tasks/Banconi.md",
     "TaskNotes/Tasks/Aperitif.md",
-    "TaskNotes/Views/agenda-default.base",
-    "02-Concetti/Percezione.md",
     "TaskNotes/Tasks/Pulire salotto.md",
     "Markdown.md",
     "TaskNotes/Tasks/Pulire ingresso.md",
     "TaskNotes/Tasks/Fare domande item preferiti.md",
     "TaskNotes/Tasks/Controllo Cosa altro comprare.md",
-    "TaskNotes/Tasks/Consegnare paccheto 1 & 2.md",
-    "TaskNotes/Tasks/Fare pacchetto numero 2.md",
-    "TaskNotes/Tasks/Lavare lenzuolo divano.md",
-    "TaskNotes/Tasks/Pulizia superfici.md",
-    "TaskNotes/Tasks/Levare cose stendino.md",
-    "TaskNotes/Tasks/Pulire bagno.md",
-    "TaskNotes/Tasks/sanitari.md",
-    "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/mini-calendar-default.base",
     "Lavagna.canvas",
     "red_windows_red_folder_folder_icon_250635.webp",
     "icons8-bmo-48.png",
