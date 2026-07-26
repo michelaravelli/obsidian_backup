@@ -229,15 +229,48 @@
               "type": "markdown",
               "state": {
                 "file": "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Annotazione Allegati (Template Zotero)"
             }
+          },
+          {
+            "id": "6c39d37e28179b27",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lavagna.canvas",
+                "viewState": {
+                  "x": 80.91000000000003,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Lavagna"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
+      },
+      {
+        "id": "8f24e7f27164bac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55235463dea9b429",
+            "type": "leaf",
+            "state": {
+              "type": "zdc-debug",
+              "state": {},
+              "icon": "gear",
+              "title": "Zotero Data Explorer"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -440,10 +473,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fbcaa1f03386a39",
+  "active": "55235463dea9b429",
   "lastOpenFiles": [
-    "01-Fonti/mendoza-collazos2022CognitiveSemioticApproachAgency.md",
     "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
+    "01-Fonti/mendoza-collazos2022CognitiveSemioticApproachAgency.md",
     "90-Templates/Template-Concetto.md",
     "01-Fonti/sequeira2006SemioticApproachControl.md",
     "Lavagna.canvas",

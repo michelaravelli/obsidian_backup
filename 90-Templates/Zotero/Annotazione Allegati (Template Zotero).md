@@ -1,7 +1,7 @@
 ---
 type: fonte
 autori: "[[{{authors}}]]"
-anno: "{% if date %}{{ date.slice(0, 4) }}{% endif %}"
+anno: "{% if parsedDate %}{{parsedDate.year}}{% else %}{{date}}{% endif %}"
 zotero-key: "{{key}}"
 citekey: "{{citekey}}"
 zotero-link: "{{select}}"
