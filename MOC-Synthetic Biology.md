@@ -4,13 +4,12 @@
 ## Concetti collegati
 
 
-
 ## Fonti principali
 
 ```dataview
 TABLE autori as "Autore", anno as "Anno", status as "Stato"
 FROM "01-Fonti"
-WHERE contains(discipline, "enactivism")
+WHERE contains(discipline, "synthethic-biology") OR contains(discipline, "wet)
 SORT anno DESC
 ```
 

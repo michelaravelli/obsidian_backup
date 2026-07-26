@@ -113,16 +113,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Fonti/barandiaran2017AutonomyEnactivismTheory.md",
+                "file": "06-MOC/MOC-4E Cognition.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "barandiaran2017AutonomyEnactivismTheory"
+              "title": "MOC-4E Cognition"
+            }
+          },
+          {
+            "id": "0384fac93289e191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-MOC/MOC-Robotics.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "MOC-Robotics"
+            }
+          },
+          {
+            "id": "676232b02dc8db34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-MOC/MOC-Embodied AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC-Embodied AI"
+            }
+          },
+          {
+            "id": "7277d72667579f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-MOC/MOC-Robotics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC-Robotics"
+            }
+          },
+          {
+            "id": "06f53b26d3c55e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOC-LLM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC-LLM"
+            }
+          },
+          {
+            "id": "6a62613bcbd74155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOC-Synthetic Biology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC-Synthetic Biology"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -325,11 +395,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "563ab12432946a33",
+  "active": "6a62613bcbd74155",
   "lastOpenFiles": [
-    "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
+    "MOC-LLM.md",
+    "MOC-Synthetic Biology.md",
+    "06-MOC/MOC-Robotics.md",
+    "MOC-Artificial Intelligence.md",
+    "06-MOC/MOC-Embodied AI.md",
+    "06-MOC/MOC-Umwelt-Theory.md",
+    "06-MOC/MOC-Robosemiotics.md",
+    "06-MOC/MOC-Philosophy-of-Mind.md",
+    "06-MOC/MOC-Enactivism.md",
+    "06-MOC/MOC-Cybersemiotics.md",
+    "06-MOC/MOC-Cognitive-Semiotics.md",
+    "06-MOC/MOC-Cognitive-Robotics.md",
+    "06-MOC/MOC-Biosemiotics.md",
+    "06-MOC/MOC-4E Cognition.md",
+    "Senza nome",
     "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
     "01-Fonti/barandiaran2017AutonomyEnactivismTheory.md",
+    "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
     "02-Concetti.md",
     "02-Concetti/Ciao.md",
     "ciao.md",
@@ -343,27 +428,12 @@
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/kanban-default.base",
     "02-Concetti/Percezione.md",
-    "06-MOC/MOC-Cognitive-Semiotics.md",
-    "06-MOC/MOC-Cognitive-Robotics.md",
-    "06-MOC/MOC-4E Cognition.md",
     "03-Persone/Alvaro Moreno & Arantza Etxeberria.md",
     "03-Persone/Andy Clark.md",
     "Ricardo R. Gudwin.md",
-    "Comandi per citazioni.md",
-    "90-Templates/Template-Estemporanea.md",
-    "90-Templates/Template-Lezione-Conferenza.md",
-    "90-Templates/Template-Fonte.md",
-    "90-Templates/Template-Lezione.md",
-    "90-Templates/Template-Persona.md",
-    "01-Fonti/clarkExtendedMind1998.md",
     "Biosemiotics",
     "Senza nome/desktop.ini",
     "AI Critics (classic)",
-    "Artificial Life",
-    "TaskNotes/Tasks/Vinted.md",
-    "TaskNotes/Tasks/Banconi.md",
-    "TaskNotes/Tasks/Aperitif.md",
-    "TaskNotes/Tasks/Pulire salotto.md",
     "red_windows_red_folder_folder_icon_250635.webp",
     "icons8-bmo-48.png",
     "Pasted image 20260717171123.png"

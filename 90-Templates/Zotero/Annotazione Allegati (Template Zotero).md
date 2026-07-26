@@ -4,6 +4,7 @@ autori: "[[{{authors}}]]"
 anno: "{{date}}"
 zotero-key: "{{key}}"
 citekey: "{{citekey}}"
+zotero-link: "{{select}}"
 discipline:
 type-doc: "{{itemType}}"
 pages: "{{numPages}}"

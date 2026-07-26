@@ -9,7 +9,7 @@
 ```dataview
 TABLE autori as "Autore", anno as "Anno", status as "Stato"
 FROM "01-Fonti"
-WHERE contains(discipline, "filosofia-della-mente") OR contains(concetti, [[Umwelt]])
+WHERE contains(discipline, "philosophy-of-mind")
 SORT anno DESC
 ```
 

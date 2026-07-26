@@ -9,7 +9,7 @@
 ```dataview
 TABLE autori as "Autore", anno as "Anno", status as "Stato"
 FROM "01-Fonti"
-WHERE contains(discipline, "4E-Cognition") OR contains(concetti, [[Umwelt]])
+WHERE contains(discipline, "4E-cognition")
 SORT anno DESC
 ```
 

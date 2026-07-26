@@ -4,13 +4,12 @@
 ## Concetti collegati
 
 
-
 ## Fonti principali
 
 ```dataview
 TABLE autori as "Autore", anno as "Anno", status as "Stato"
 FROM "01-Fonti"
-WHERE contains(discipline, "teoria-umwelt") OR contains(concetti, [[Umwelt]])
+WHERE contains(discipline, "artificial-intelligence")
 SORT anno DESC
 ```
 
