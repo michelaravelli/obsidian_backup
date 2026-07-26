@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-MOC/thellefsen2025genaisem.md",
+                "file": "06-MOC/bacaro2026robseecog.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "thellefsen2025genaisem"
+              "title": "bacaro2026robseecog"
             }
           }
         ],
@@ -251,9 +251,13 @@
   },
   "active": "07ee795cc84862d6",
   "lastOpenFiles": [
-    "06-MOC/DA-COMPLETARE - Cybersemiotics Merging the Semiotic and Cybernetics.md",
+    "06-MOC/gudwin1999umwartdev.md",
+    "06-MOC/silva2025beytokint.md",
+    "06-MOC/MOC-4E Cognition.md",
+    "06-MOC/bacaro2026robseecog.md",
     "06-MOC/thellefsen2025genaisem.md",
     "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
+    "06-MOC/DA-COMPLETARE - Cybersemiotics Merging the Semiotic and Cybernetics.md",
     "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
     "01-Fonti/sequeira2006SemioticApproachControl.md",
     "01-Fonti/barandiaran2017AutonomyEnactivismTheory.md",
@@ -264,7 +268,6 @@
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/calendar-default.base",
-    "06-MOC/MOC-4E Cognition.md",
     "06-MOC/MOC-Robotics.md",
     "06-MOC/MOC-Embodied AI.md",
     "06-MOC/MOC-LLM.md",
@@ -279,9 +282,6 @@
     "06-MOC/MOC-Robosemiotics.md",
     "06-MOC/MOC-Philosophy-of-Mind.md",
     "06-MOC/MOC-Enactivism.md",
-    "06-MOC/MOC-Cybersemiotics.md",
-    "06-MOC/MOC-Cognitive-Semiotics.md",
-    "06-MOC/MOC-Cognitive-Robotics.md",
     "Senza nome",
     "Senza nome.base",
     "TaskNotes/Views/mini-calendar-default.base",
