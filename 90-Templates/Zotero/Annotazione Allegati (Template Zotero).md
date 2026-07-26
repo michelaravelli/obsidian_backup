@@ -1,7 +1,7 @@
 ---
 type: fonte
 autori: "[[{{authors}}]]"
-anno: "{% if parsedDate %}{{parsedDate.year}}{% else %}{{date}}{% endif %}"
+anno: "{{date | format('YYYY')}}"
 zotero-key: "{{key}}"
 citekey: "{{citekey}}"
 zotero-link: "{{select}}"
@@ -10,6 +10,7 @@ type-doc: "{{itemType}}"
 pages: "{{pages}}"
 stato: da-leggere
 ---
+
 
 {%- if pages and '-' in pages -%}
 	{%- set pgArray = pages.split('-') -%} 
