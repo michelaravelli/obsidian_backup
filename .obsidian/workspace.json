@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC-LLM.md",
+                "file": "06-MOC/MOC-LLM.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,16 +183,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC-Synthetic Biology.md",
+                "file": "06-MOC/MOC-Synthetic Biology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "MOC-Synthetic Biology"
             }
+          },
+          {
+            "id": "4b3fb54b5c49b8a6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lavagna.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Lavagna"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -395,12 +412,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a62613bcbd74155",
+  "active": "4b3fb54b5c49b8a6",
   "lastOpenFiles": [
-    "MOC-LLM.md",
-    "MOC-Synthetic Biology.md",
+    "01-Fonti/yianSurveyPeirceSemiotics.md",
+    "Lavagna.canvas",
+    "01-Fonti/barandiaran2017AutonomyEnactivismTheory.md",
+    "06-MOC/MOC-Semiotics.md",
+    "ciao.md",
+    "06-MOC/MOC-Synthetic Biology.md",
+    "06-MOC/MOC-LLM.md",
     "06-MOC/MOC-Robotics.md",
-    "MOC-Artificial Intelligence.md",
+    "06-MOC/MOC-Artificial Intelligence.md",
     "06-MOC/MOC-Embodied AI.md",
     "06-MOC/MOC-Umwelt-Theory.md",
     "06-MOC/MOC-Robosemiotics.md",
@@ -413,12 +435,9 @@
     "06-MOC/MOC-4E Cognition.md",
     "Senza nome",
     "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
-    "01-Fonti/barandiaran2017AutonomyEnactivismTheory.md",
     "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
     "02-Concetti.md",
     "02-Concetti/Ciao.md",
-    "ciao.md",
-    "Lavagna.canvas",
     "02-Concetti/Umwelt.md",
     "90-Templates/Template-Concetto.md",
     "Senza nome.base",
@@ -428,9 +447,6 @@
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/kanban-default.base",
     "02-Concetti/Percezione.md",
-    "03-Persone/Alvaro Moreno & Arantza Etxeberria.md",
-    "03-Persone/Andy Clark.md",
-    "Ricardo R. Gudwin.md",
     "Biosemiotics",
     "Senza nome/desktop.ini",
     "AI Critics (classic)",
