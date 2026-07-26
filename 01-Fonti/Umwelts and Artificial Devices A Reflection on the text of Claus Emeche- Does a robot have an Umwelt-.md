@@ -5,7 +5,8 @@ autori:
 anno: "1999"
 zotero-key:
 citekey:
-concetti: []
+concetti:
+  - "[[Umwelt]]"
 discipline: []
 stato: letto
 created: 2026-07-25

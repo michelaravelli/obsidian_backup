@@ -97,10 +97,14 @@
             "id": "40e3a9531600a0c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-"
             }
           }
         ],
@@ -309,6 +313,11 @@
   },
   "active": "40e3a9531600a0c8",
   "lastOpenFiles": [
+    "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
+    "02-Concetti/Umwelt.md",
+    "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
+    "Lavagna.canvas",
+    "90-Templates/Template-Concetto.md",
     "Senza nome.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/calendar-default.base",
@@ -319,12 +328,9 @@
     "06-MOC/MOC-Cognitive-Semiotics.md",
     "06-MOC/MOC-Cognitive-Robotics.md",
     "06-MOC/MOC-4E Cognition.md",
-    "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
     "03-Persone/Alvaro Moreno & Arantza Etxeberria.md",
     "03-Persone/Andy Clark.md",
-    "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
     "Ricardo R. Gudwin.md",
-    "90-Templates/Template-Concetto.md",
     "Comandi per citazioni.md",
     "90-Templates/Template-Estemporanea.md",
     "90-Templates/Template-Lezione-Conferenza.md",
@@ -336,7 +342,6 @@
     "Senza nome/desktop.ini",
     "AI Critics (classic)",
     "Artificial Life",
-    "01-Fonti/AI",
     "TaskNotes/Tasks/Vinted.md",
     "TaskNotes/Tasks/Banconi.md",
     "TaskNotes/Tasks/Aperitif.md",
@@ -345,7 +350,6 @@
     "TaskNotes/Tasks/Pulire ingresso.md",
     "TaskNotes/Tasks/Fare domande item preferiti.md",
     "TaskNotes/Tasks/Controllo Cosa altro comprare.md",
-    "Lavagna.canvas",
     "red_windows_red_folder_folder_icon_250635.webp",
     "icons8-bmo-48.png",
     "Pasted image 20260717171123.png"
