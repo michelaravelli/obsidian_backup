@@ -7,6 +7,8 @@ zotero-key:
 citekey:
 concetti:
   - "[[Umwelt]]"
+  - "[[ciao]]"
+  - "[[ 02-Concetti/Ciao]]"
 discipline: []
 stato: letto
 created: 2026-07-25
