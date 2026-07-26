@@ -97,14 +97,17 @@
             "id": "40e3a9531600a0c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
-                "mode": "source",
-                "source": true
+                "file": "Lavagna.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-"
+              "icon": "lucide-layout-dashboard",
+              "title": "Lavagna"
             }
           }
         ],
@@ -314,8 +317,8 @@
   "active": "40e3a9531600a0c8",
   "lastOpenFiles": [
     "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
-    "02-Concetti/Umwelt.md",
     "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
+    "02-Concetti/Umwelt.md",
     "Lavagna.canvas",
     "90-Templates/Template-Concetto.md",
     "Senza nome.base",
