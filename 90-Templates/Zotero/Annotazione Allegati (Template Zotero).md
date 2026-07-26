@@ -1,7 +1,7 @@
 ---
 type: fonte
 autori: "[[{{authors}}]]"
-anno: "{{year}}"
+anno: "{% if date %}{{ date.slice(0, 4) }}{% endif %}"
 zotero-key: "{{key}}"
 citekey: "{{citekey}}"
 zotero-link: "{{select}}"
@@ -9,9 +9,15 @@ discipline:
 type-doc: "{{itemType}}"
 pages: "{{pages}}"
 stato: da-leggere
-created: "{{importDate}}"
 ---
-* **Pagine:** {{pages}} {% if numPages %}(tot. {{numPages}}){% endif %}
+
+{%- if pages and '-' in pages -%}
+	{%- set pgArray = pages.split('-') -%} 
+	{%- set totalPg = (pgArray[1] | int) - (pgArray[0] | int) + 1 -%}
+**Pagine:** {{pages}} (tot. {{totalPg}} pagine) 
+{%- elif pages -%} 
+**Pagine:** {{pages}} 
+{%- endif %}
 
 ### 🏷️ Concetti  
 {% for tag in tags -%} 
