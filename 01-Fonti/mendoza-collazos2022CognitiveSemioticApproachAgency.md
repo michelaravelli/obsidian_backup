@@ -1,17 +1,20 @@
 ---
 type: fonte
 autori: "[[Juan Mendoza-Collazos, Jordan Zlatev]]"
-anno: "1651356000000"
-zotero-key: 5GUEG2IX
-citekey: mendoza-collazos2022CognitiveSemioticApproachAgency
-zotero-link: zotero://select/library/items/5GUEG2IX
+anno: ""
+zotero-key: "5GUEG2IX"
+citekey: "mendoza-collazos2022CognitiveSemioticApproachAgency"
+zotero-link: "zotero://select/library/items/5GUEG2IX"
 discipline:
-type-doc: journalArticle
-pages:
+type-doc: "journalArticle"
+pages: "141-170"
 stato: da-leggere
-created: "1651356000000"
+created: "1785090253981"
 ---
+* **Pagine:** 141-170 
+
 ### 🏷️ Concetti  
+
 
 # A Cognitive-Semiotic Approach to Agency: Assessing Ideas from Cognitive Science and Neuroscience
 
@@ -40,4 +43,4 @@ created: "1651356000000"
 
 
 
-%% Import Date: 2026-07-26T19:56:14.278+02:00 %%
+%% Import Date: 2026-07-26T20:24:24.146+02:00 %%

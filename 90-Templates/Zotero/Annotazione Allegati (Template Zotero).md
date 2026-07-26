@@ -9,8 +9,10 @@ discipline:
 type-doc: "{{itemType}}"
 pages: "{{pages}}"
 stato: da-leggere
-created: "{{date}}"
+created: "{{importDate}}"
 ---
+* **Pagine:** {{pages}} {% if numPages %}(tot. {{numPages}}){% endif %}
+
 ### 🏷️ Concetti  
 {% for tag in tags -%} 
 * [[02-Concetti/{{tag.tag}}]] 
