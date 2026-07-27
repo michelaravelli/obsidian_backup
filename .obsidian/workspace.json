@@ -20,8 +20,59 @@
               "icon": "lucide-file",
               "title": "MOC-Semiotics"
             }
+          },
+          {
+            "id": "4326bc0674c871d2",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-stats-view",
+              "state": {},
+              "icon": "bar-chart",
+              "title": "Pomodoro stats"
+            }
+          },
+          {
+            "id": "52f006555b9a0ac2",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Pomodoro"
+            }
+          },
+          {
+            "id": "ff84a3ad955faa05",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
+            }
+          },
+          {
+            "id": "58cb7df5bfeb8184",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lavagna.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Lavagna"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,14 +245,23 @@
               "icon": "lucide-info",
               "title": "Proprietà file"
             }
+          },
+          {
+            "id": "442374ee63bb7b6e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,9 +284,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6252fa9a1bbfada",
+  "active": "58cb7df5bfeb8184",
   "lastOpenFiles": [
+    "Comandi per citazioni.md",
     "02-Concetti/Robot.md",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "06-MOC/MOC-Semiotics.md",
     "01-Fonti/bacaro2026WhatDoesRobot.md",
     "01-Fonti/aldinhasferreira2013ModellingArtificialCognition.md",
     "01-Fonti/aiello2001CaseStudiesCognitive.md",
@@ -244,8 +308,6 @@
     "01-Fonti/mendoza-collazos2022CognitiveSemioticApproachAgency.md",
     "02-Concetti/umberto.md",
     "02-Concetti/Percezione.md",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/calendar-default.base",
     "06-MOC/MOC-Robotics.md",
@@ -255,8 +317,6 @@
     "Lavagna.canvas",
     "90-Templates/Template-Concetto.md",
     "01-Fonti/yianSurveyPeirceSemiotics.md",
-    "06-MOC/MOC-Semiotics.md",
-    "ciao.md",
     "Senza nome",
     "Senza nome.base",
     "TaskNotes/Views/mini-calendar-default.base",
