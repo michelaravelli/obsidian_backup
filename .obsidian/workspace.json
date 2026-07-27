@@ -11,10 +11,14 @@
             "id": "f6252fa9a1bbfada",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06-MOC/MOC-Semiotics.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "MOC-Semiotics"
             }
           }
         ]
@@ -220,11 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0f6290623cbf3c5",
+  "active": "f6252fa9a1bbfada",
   "lastOpenFiles": [
+    "02-Concetti/Robot.md",
+    "01-Fonti/bacaro2026WhatDoesRobot.md",
     "01-Fonti/aldinhasferreira2013ModellingArtificialCognition.md",
     "01-Fonti/aiello2001CaseStudiesCognitive.md",
-    "01-Fonti/bacaro2026WhatDoesRobot.md",
     "01-Fonti/ziemke2002epimearob.md",
     "01-Fonti/Umwelts and Artificial Devices A Reflection on the text of Claus Emeche- Does a robot have an Umwelt-.md",
     "90-Templates/Zotero/Annotazione Allegati (Template Zotero).md",
@@ -252,7 +257,6 @@
     "01-Fonti/yianSurveyPeirceSemiotics.md",
     "06-MOC/MOC-Semiotics.md",
     "ciao.md",
-    "06-MOC/MOC-Artificial Intelligence.md",
     "Senza nome",
     "Senza nome.base",
     "TaskNotes/Views/mini-calendar-default.base",
