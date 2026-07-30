@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasGears",
       "FasRobot",
       "LiCloud",
       "LiBook",
-      "LiFileText",
-      "LiFilePenLine"
+      "LiFileText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,11 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Lavagna.canvas": "LiFilePenLine",
   "02-Concetti/Percezione.md": "LiCloud",
-  "Markdown.md": "LiFilePenLine",
   "90-Templates/Template-Concetto.md": "LiCloud",
   "02-Concetti/Robot.md": "FasRobot",
-  "Comandi per citazioni.md": "LiFilePenLine"
+  "Z-System Cards x/Comandi per citazioni.md": "LiFilePenLine",
+  "Z-System Cards x/GitHub Sync Regole.md": "FasGears",
+  "Z-System Cards x/Markdown.md": "LiFilePenLine",
+  "Z-System Cards x/Lavagna.canvas": "LiFilePenLine"
 }
