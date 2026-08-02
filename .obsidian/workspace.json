@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-System Cards x/GitHub Sync Regole.md",
+                "file": "02-Concetti/Corpo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Sync Regole"
+              "title": "Corpo"
             }
           },
           {
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-System Cards x/GitHub Sync Regole.md",
+                "file": "Brutta da leggere.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -229,8 +229,20 @@
             "state": {
               "type": "ReferenceListView",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "ReferenceListView"
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          },
+          {
+            "id": "2ea897d87183ee8a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "a54c10e5d9efd01c3ce482672b818f5b.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "a54c10e5d9efd01c3ce482672b818f5b"
             }
           },
           {
@@ -238,7 +250,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Brutta da leggere.md"
+              },
               "icon": "lucide-info",
               "title": "Proprietà file"
             }
@@ -254,11 +268,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 297
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,17 +286,21 @@
       "templater-obsidian:Templater": false,
       "tasknotes:Open mini calendar view": false,
       "tasknotes:Open calendar view": false,
-      "tasknotes:Open tasks view": false,
       "tasknotes:Open agenda view": false,
       "tasknotes:Open Kanban board": false,
       "tasknotes:Open Pomodoro timer": false,
       "tasknotes:Open Pomodoro statistics": false,
       "tasknotes:Create new task": false,
-      "obsidian-git:Open Git source control": false
+      "book-search-plus:Create new book note": false,
+      "obsidian-git:Open Git source control": false,
+      "tasknotes:Open tasks view": false
     }
   },
-  "active": "4d1475cf227b0422",
+  "active": "3b3de748f18c6557",
   "lastOpenFiles": [
+    "02-Concetti/Corpo.md",
+    "a54c10e5d9efd01c3ce482672b818f5b.jpg",
+    "Z-System Cards x/GitHub Sync Regole.md",
     "Semiosi Artificiale.md",
     "Z-System Cards x/Lavagna.canvas",
     "Z-System Cards x/Markdown.md",
@@ -298,7 +316,6 @@
     "TaskNotes",
     "Domande.md",
     "02-Concetti/processo di significazione.md",
-    "02-Concetti/corpo.md",
     "90-Templates/Template-Concetto.md",
     "02-Concetti/Robot.md",
     "02-Concetti/Umwelt.md",
@@ -306,7 +323,6 @@
     "02-Concetti/linguaggio.md",
     "02-Concetti/Processi di significazione.md",
     "Senza nome.base",
-    "Z-System Cards x/GitHub Sync Regole.md",
     "06-MOC/MOC-Semiotics.md",
     "Z-System Cards x/Comandi per citazioni.md",
     "01-Fonti/bacaro2026WhatDoesRobot.md",
